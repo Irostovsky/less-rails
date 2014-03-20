@@ -1,3 +1,4 @@
+Forked to fix https://github.com/metaskills/less-rails/issues/85
 # The dynamic stylesheet language for the Rails asset pipeline.
 
 This gem provides integration for Rails projects using the Less stylesheet language in the asset pipeline.
